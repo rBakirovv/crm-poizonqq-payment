@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "647a73dde24a925c2bfccc53"
+  },
+  "sneakersChina": "837",
+  "sneakersRussia": "1362",
+  "winterShoesChina": "837",
+  "winterShoesRussia": "1839",
+  "jacketChina": "837",
+  "jacketRussia": "1197",
+  "sweatshirtChina": "837",
+  "sweatshirtRussia": "1197",
+  "tShirtChina": "411",
+  "tShirtRussia": "495",
+  "socksChina": "248",
+  "socksRussia": "274",
+  "bagChina": "837",
+  "bagRussia": "806",
+  "perfumeChina": "411",
+  "perfumeRussia": "806",
+  "pantsChina": "837",
+  "pantsRussia": "1197",
+  "headdressChina": "411",
+  "headdressRussia": "395",
+  "techniqueChina": "0",
+  "techniqueRussia": "0",
+  "otherChina": "110",
+  "otherRussia": "90",
+  "commission": "2000",
+  "__v": 0
+}]

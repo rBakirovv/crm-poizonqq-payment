@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "646e487a1b0ab82f101a5ed7"
+  },
+  "title": "\"Сбербанк\" Андрей",
+  "number": "5336 6903 1577 8623",
+  "paymentOrder": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646e48c11b0ab82f101a5edc"
+  },
+  "title": "Уточняйте у менеджера",
+  "number": "-",
+  "paymentOrder": 4,
+  "__v": 0,
+  "servicePercentage": "10"
+},{
+  "_id": {
+    "$oid": "646e48cd1b0ab82f101a5ee1"
+  },
+  "title": "«Тинькофф» Милана",
+  "number": "2200 7004 7160 2812",
+  "paymentOrder": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff322b76609cf041216359"
+  },
+  "title": "«Альфабанк» Никита",
+  "number": "5559493807213500",
+  "paymentOrder": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff358976609cf0412163ad"
+  },
+  "title": "Перевод по QR-коду",
+  "number": "https://qr.nspk.ru/BS1A00183ILG8B529JNPOASGHL8TLCO1?type=01&bank=100000000004&crc=7D1A",
+  "paymentOrder": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff3dc176609cf041216425"
+  },
+  "title": "«Газпромбанк» Милана",
+  "number": "5336 6903 1577 8623",
+  "paymentOrder": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "662d6315d9126b2e2ffe66ad"
+  },
+  "title": "Сплит",
+  "number": "Onepay",
+  "paymentOrder": 0,
+  "__v": 0,
+  "servicePercentage": "2.5"
+},{
+  "_id": {
+    "$oid": "662d6328d9126b2e2ffe66b2"
+  },
+  "title": "Перейти по ссылке",
+  "number": "Onepay",
+  "paymentOrder": 1,
+  "__v": 0,
+  "servicePercentage": "5"
+},{
+  "_id": {
+    "$oid": "662e6960fa4a15c1e83e3e2f"
+  },
+  "title": "Сплит",
+  "number": "Anypayments",
+  "paymentOrder": 2,
+  "__v": 0,
+  "servicePercentage": "3"
+},{
+  "_id": {
+    "$oid": "662e6979fa4a15c1e83e3e34"
+  },
+  "title": "Перейти по ссылке",
+  "number": "Anypayments",
+  "paymentOrder": 3,
+  "__v": 0,
+  "servicePercentage": "1"
+},{
+  "_id": {
+    "$oid": "664891a91dfdbda5b142f015"
+  },
+  "title": "Сплит",
+  "number": "уточняйте у менеджера",
+  "paymentOrder": 5,
+  "__v": 0,
+  "servicePercentage": "8"
+}]

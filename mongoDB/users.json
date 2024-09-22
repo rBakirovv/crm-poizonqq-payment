@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "63bff0b183483731af876989"
+  },
+  "email": "1234@gmail.com",
+  "password": "$2b$10$gjoSpOi4ne6i.iR4DfpZDuitgQc04twpRi6HF/gOLvHLiMGVhzor.",
+  "code": "6c03135e-da5f-474a-a87c-e5766004f905",
+  "name": "Создатель",
+  "position": "Создатель",
+  "__v": 0
+}]
