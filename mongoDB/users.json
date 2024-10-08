@@ -2,10 +2,43 @@
   "_id": {
     "$oid": "63bff0b183483731af876989"
   },
-  "email": "1234@gmail.com",
+  "email": "saharcorez@gmail.com",
   "password": "$2b$10$gjoSpOi4ne6i.iR4DfpZDuitgQc04twpRi6HF/gOLvHLiMGVhzor.",
   "code": "6c03135e-da5f-474a-a87c-e5766004f905",
   "name": "Создатель",
   "position": "Создатель",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6701940977373287e764952a"
+  },
+  "email": "bekin_ivan6@mail.ru",
+  "password": "$2a$10$oelyQWc6WqxEnm35lPYuqOUzRod53KlzccU9fU4NLPKOAoCNj062q",
+  "code": "",
+  "name": "bekin_ivan6@mail.ru",
+  "position": "Главный администратор",
+  "username": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67052b5856a20b53f2ce9392"
+  },
+  "email": "subplot_safe_0a@icloud.com",
+  "password": "$2a$10$7rSgkQHIjznwzkvYpCII2elqHii12b4yVHdFtIxHh37c4zmcye4ly",
+  "code": "",
+  "name": "subplot_safe_0a@icloud.com",
+  "position": "Главный администратор",
+  "username": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67052b7256a20b53f2ce9398"
+  },
+  "email": "kykybcbc999@gmail.com",
+  "password": "$2a$10$nzD9QIf0kCctCBvH1yl./eMIqFyZTTM5tXBAc5ZLc77ZuRH55p51q",
+  "code": "",
+  "name": "kykybcbc999@gmail.com",
+  "position": "Главный администратор",
+  "username": "",
   "__v": 0
 }]
